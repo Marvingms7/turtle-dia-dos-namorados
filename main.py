@@ -28,7 +28,7 @@ pen.end_fill()
 # Esconder a tartaruga temporariamente
 pen.penup()
 pen.goto(0, -150)
-pen.color("red")
+pen.color("black")
 pen.write("I love you", align="center", font=("Arial", 18, "bold"))
 pen.hideturtle()
 
