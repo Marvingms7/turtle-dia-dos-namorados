@@ -9,6 +9,8 @@ pen.shape("turtle")
 pen.speed(2)
 pen.color("red")
 pen.fillcolor("red")
+pen.pensize(3)
+pen.speed(1)
 pen.penup()
 
 pen.goto(0, -50)
